@@ -13,6 +13,6 @@ something we already use. Hopefully this simplifies things somewhat.
 
 ## Links
 
-- [JavaRepoPage](/java-repo)
-- [GolangRepoPage](/golang-repo)
-- [MarkdownRepoPage](/markdown-repo)
+- [JavaRepoPage](https://calebbredekamp.github.io/java-repo)
+- [GolangRepoPage](https://calebbredekamp.github.io/golang-repo)
+- [MarkdownRepoPage](https://calebbredekamp.github.io/markdown-repo)
